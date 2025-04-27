@@ -1,0 +1,17 @@
+com\nutrition\userService\Service\DietPlanClient.class
+com\nutrition\userService\Service\WeightLogClient.class
+com\nutrition\userService\Entity\PaymentDTO.class
+com\nutrition\userService\Entity\UserWithDietPlansDTO.class
+com\nutrition\userService\Security\JwtAuthenticationFilter.class
+com\nutrition\userService\Controller\UserController.class
+com\nutrition\userService\Entity\User.class
+com\nutrition\userService\UserServiceApplication.class
+com\nutrition\userService\Security\JwtUtil.class
+com\nutrition\userService\Controller\AuthController.class
+com\nutrition\userService\Service\PaymentClient.class
+com\nutrition\userService\Service\UserService.class
+com\nutrition\userService\Service\UserServiceImpl.class
+com\nutrition\userService\Entity\DietPlanDTO.class
+com\nutrition\userService\Repository\UserRepository.class
+com\nutrition\userService\Entity\WeightLogDTO.class
+com\nutrition\userService\Security\SecurityConfig.class
